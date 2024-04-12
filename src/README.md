@@ -1,5 +1,6 @@
 ## Part 1. Установка ОС
-* ![Вывод версии Ubuntu](./screenshots/img_1.png "Вывод версии Ubuntu")
+![Вывод версии Ubuntu](./screenshots/img_1.png)
+* Вывод версии Ubuntu
 
 ## Part 2. Создание пользователя
 * 
