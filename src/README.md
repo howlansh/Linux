@@ -135,8 +135,12 @@
 * ![](./screenshots/img_12.4.png)
 
 ## Part 13. Установка и использование утилиты ncdu
-* 
-* ![](./screenshots/img_13.png)
+* Размер папки /home.
+* ![](./screenshots/img_13.1.png)
+* Размер папки /var.
+* ![](./screenshots/img_13.2.png)
+* Размер папки /var/log.
+* ![](./screenshots/img_13.3.png)
 
 ## Part 14. Работа с системными журналами
 * 
