@@ -125,8 +125,14 @@
 * ![](./screenshots/img_11.2.png)
 
 ## Part 12. Использование утилиты du
-* 
-* ![](./screenshots/img_12.png)
+* Размер папки /home.
+* ![](./screenshots/img_12.1.png)
+* Размер папки /var.
+* ![](./screenshots/img_12.2.png)
+* Размер папки /var/log.
+* ![](./screenshots/img_12.3.png)
+* Размер всего содержимого в /var/log.
+* ![](./screenshots/img_12.4.png)
 
 ## Part 13. Установка и использование утилиты ncdu
 * 
